@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/release/
+/.idea/GitLink.xml
+/.idea/migrations.xml
+/.idea/deploymentTargetDropDown.xml
